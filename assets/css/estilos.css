@@ -1,0 +1,60 @@
+html {
+	scroll-behavior: auto !important;
+}
+
+body {
+	font-family: Helvetica;
+	background-color: #000000;
+}
+
+/* Navbar */
+.navbar {
+	background-color: transparent !important;
+	position: fixed;
+	width: 100vw;
+	z-index: 1;
+}
+
+.logo {
+	width: 3.12rem;
+	height: 3.12rem;
+}
+
+.icono {
+	background-color: #0BA7B7;
+}
+
+/* Quienes somos */
+
+#quienes-somos {
+	margin-bottom: 2rem;
+
+}
+
+h4 {
+	color: #ffffff;
+	font-size: 2rem;
+}
+
+p {
+	color: #ffffff;
+}
+
+
+hr {
+	color:  #0BA7B7;
+}
+
+i {
+	color: #ffffff;
+}
+
+/* Destacados */
+
+.card {
+	background-color: #0BA7B7;
+	margin: 2rem;
+
+}
+
+
