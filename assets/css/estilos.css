@@ -1,11 +1,16 @@
+* {
+	    box-sizing: border-box;
+	    font-family: 'Raleway', sans-serif;
+}
+
 html {
 	scroll-behavior: auto !important;
 }
 
 body {
-	font-family: Helvetica;
 	background-color: #000000;
 }
+
 
 /* Navbar */
 .navbar {
@@ -51,10 +56,46 @@ i {
 
 /* Destacados */
 
+
+
 .card {
 	background-color: #0BA7B7;
-	margin: 2rem;
-
+	margin: 10px;
+	border: solid 1px #D0DADB;
 }
 
+	
+
+.card-body h5 {
+	color: #ffffff;
+	margin-bottom: 1rem;
+}
+
+#Destacados > div.row.m-2 > div:nth-child(3) > div > div {
+	max-height: 288px;
+}
+
+#Destacados > div.row.m-2 > div:nth-child(4) > div > div {
+	max-height: 288px;
+}
+}
+
+/* contacto */
+.text-cont. {
+	background-color: #ffffff;
+}
+
+.text-cont p {
+	color: #000000;
+	padding-bottom: 2rem;
+}
+
+.btn {
+	font-weight: 500;
+}
+
+/* footer */
+footer {
+	background-color: #0BA7B7;
+}
 
