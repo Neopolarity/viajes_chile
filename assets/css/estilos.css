@@ -55,12 +55,11 @@ i {
 
 .card {
 	background-color: #0BA7B7;
-	margin: 1rem;
+	margin: 10px;
+	border: solid 1px #D0DADB;
 }
 
-.card img {
-	max-height: 390px;
-}	
+	
 
 .card-body h5 {
 	color: #ffffff;
