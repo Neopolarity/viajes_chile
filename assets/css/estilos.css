@@ -66,4 +66,21 @@ i {
 	margin-bottom: 1rem;
 }
 
+/* contacto */
+
+.cont-contacto {
+	background-color: #ffffff;
+	padding: 10rem;
+	margin: 2rem;
+}
+
+.cont-contacto h5 {
+	color: #000000;
+}
+
+
+
+footer {
+	background-color: #0BA7B7;	
+}
 
