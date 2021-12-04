@@ -1,10 +1,11 @@
 * {
-	    box-sizing: border-box;
-	    font-family: 'Raleway', sans-serif;
+	box-sizing: border-box;
+	
 }
 
 html {
 	scroll-behavior: auto !important;
+	font-family: 'Raleway', sans-serif;
 }
 
 body {
@@ -71,27 +72,22 @@ i {
 	margin-bottom: 1rem;
 }
 
-#Destacados > div.row.m-2 > div:nth-child(3) > div > div {
-	max-height: 288px;
-}
-
-#Destacados > div.row.m-2 > div:nth-child(4) > div > div {
-	max-height: 288px;
-}
-}
-
 /* contacto */
-.text-cont. {
+
+.con-text {
 	background-color: #ffffff;
+	padding: 7rem;
 }
 
-.text-cont p {
+.con-text p {
 	color: #000000;
 	padding-bottom: 2rem;
+	font-size: 1.5rem;
 }
 
 .btn {
 	font-weight: 500;
+	margin-bottom: 2rem;
 }
 
 /* footer */

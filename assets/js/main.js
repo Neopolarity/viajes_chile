@@ -1,4 +1,4 @@
-/*$(document).ready(function () {
+$(document).ready(function () {
 	
 	$("a").click(function () {
 		var gato = this.hash
@@ -14,4 +14,4 @@
 
 	})
 
-})*/
+})
